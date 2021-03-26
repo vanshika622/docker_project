@@ -184,7 +184,7 @@ background: linear-gradient(302deg, rgba(222,230,233,1) 2%, rgba(18,205,226,1) 4
         }
         
 
-        @media screen and(max-width:790px){
+        @media screen and(max-width:800px){
             .container{
             width: 500%;
             height: 500%;
